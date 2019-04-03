@@ -1,6 +1,7 @@
 # win2unix
 
-File utility that converts ASCII text files with CRLF line terminator into a Unix compliant file.
+File utility that converts ASCII text files with CRLF line terminator into Unix line endings.
+win2unix is a simple educational exercise written in Haskell. Inspired by [Real World Haskell](http://book.realworldhaskell.org/)
 
 ## Install
 
@@ -25,6 +26,5 @@ Simply run:
 ```
 win2unix \<CRLF File\> \<Name of output file\> 
 ```
-
 
 
