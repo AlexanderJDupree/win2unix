@@ -11,7 +11,7 @@ First, clone the repository:
 git clone https://github.com/AlexanderJDupree/win2Unix.git
 ```
 
-Then with the [Haskell Tool Stack](https://docs.haskellstack.org/en/stable/README/#how-to-install) installed change into the directory and run:
+Then, with the [Haskell Tool Stack](https://docs.haskellstack.org/en/stable/README/#how-to-install) installed change into the directory and run:
 
 ```
 stack setup
@@ -24,7 +24,7 @@ stack install win2unix
 Simply run: 
 
 ```
-win2unix \<CRLF File\> \<Name of output file\> 
+win2unix <CRLF File> <Name of output file> 
 ```
 
 
