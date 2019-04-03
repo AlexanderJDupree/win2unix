@@ -1,3 +1,6 @@
+-- file: Win2Unix.hs
+-- brief: Implementation for the Win2Unix utility
+
 module Win2Unix
     ( mapFileContents,
       replaceLineEnding

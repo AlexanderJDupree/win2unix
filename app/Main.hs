@@ -1,3 +1,7 @@
+-- file: Main.hs
+-- brief: Entry point to the win2unix utility. Performs pattern matching to 
+--        dispatch command line arguments
+
 module Main where
 
 import Win2Unix
